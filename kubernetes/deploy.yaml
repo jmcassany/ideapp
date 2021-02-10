@@ -29,5 +29,5 @@ spec:
         configMap:
           name: idea
           items:
-          - key: privacypolicy.htm
-            path: privacypolicy.htm
+          - key: index.html
+            path: index.html
