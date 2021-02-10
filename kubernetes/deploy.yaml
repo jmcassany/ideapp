@@ -29,5 +29,5 @@ spec:
         configMap:
           name: ideapp
           items:
-          - key: index.html
-            path: index.html
+          - key: privacypolicy.htm
+            path: privacypolicy.htm
