@@ -27,7 +27,7 @@ spec:
       volumes:
       - name: htmlcontent
         configMap:
-          name: idea
+          name: ideapp
           items:
           - key: index.html
             path: index.html
